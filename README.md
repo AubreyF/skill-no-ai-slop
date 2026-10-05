@@ -2,15 +2,17 @@
 
 # No AI Slop
 
+Part of Aubrey Falconer's shared skills collection.
+
 Edit drafts into clearer, more direct writing while preserving the writer's vocabulary, cadence, humor, uncertainty, and useful edge. The skill also audits drafts for named writing patterns without guessing whether AI wrote them.
 
 This repository packages the version Aubrey Falconer uses, based on [Peter Yang's No AI Slop skill](https://github.com/petergyang/no-ai-slop). The installed `SKILL.md`, `eval.md`, license, and agent metadata were copied without changes for the `v1.0.0` snapshot. This is a redistribution of that installed version. It does not automatically track upstream changes.
 
-## Copy this paragraph to your agent
+## Copy this sentence to your agent
 
-> Install the No AI Slop skill from https://github.com/AubreyF/no-ai-slop using the v1.0.0 tag and the skills/no-ai-slop folder. Read the README first, then install that complete folder, including SKILL.md, eval.md, LICENSE, and agents/openai.yaml, in your supported personal skills location so it is available across projects. Use your built-in skill installer if you have one. Preserve any existing installation and ask before replacing it. Verify the installed files and tell me how to invoke the skill. If you cannot install skills or access local files, explain the limitation and give me instructions for your supported setup. Do not claim installation succeeded until you have verified it.
+> Install the complete No AI Slop skill folder from https://github.com/AubreyF/skill-no-ai-slop/tree/v1.0.0/skills/no-ai-slop as a personal skill, ask before replacing an existing copy, and verify the installation.
 
-This prompt is for an agent with access to downloads and a supported skills system. A chat session without those capabilities cannot install local files from a paragraph alone.
+This prompt is for an agent with access to downloads and a supported skills system. A chat session without those capabilities cannot install local files from this sentence alone.
 
 ## Installation details
 
